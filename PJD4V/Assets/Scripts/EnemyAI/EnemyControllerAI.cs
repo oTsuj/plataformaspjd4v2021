@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Serialization;
 
-public class EnemyControllerAI : MonoBehaviour
+public class EnemyController : MonoBehaviour
 {
     public int maxEnergy;
     public int damage;
